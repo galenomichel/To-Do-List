@@ -4,8 +4,8 @@ A "To Do List" project to practice some concepts of Docker and Angular 9.
 # Steps
 
 1. Reading documentations
-- Read Typescript documentation;
-- Read Angular 9 documentation;
+- :OK: Read Typescript documentation;
+- :OK: Read Angular 9 documentation;
 
 2. Create the frontend
 - Create the central square;
