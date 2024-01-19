@@ -3,3 +3,8 @@ export class ToDoItem {
    description: string;
    completed: boolean;
 }
+
+//export class ToDoList {
+   //id: string;
+   //listItem: string;
+//}
