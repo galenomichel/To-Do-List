@@ -1,0 +1,23 @@
+#listCreator{
+   background-color: tomato;
+   font-weight: bold;
+   border-radius: 2px;
+   padding: 5px;
+}
+
+#list-item{
+   background-color: black;
+   color: darkgrey;
+}
+
+.button{
+   border-radius: 30px;
+}
+
+#createList{
+   background-color: lawngreen;
+   color: white;
+   font-weight: bolder;
+   font-size: larger;
+}
+
